@@ -193,3 +193,4 @@ const chalkAnimation = {
 
 export default chalkAnimation;
 // Modified by new maintainer
+module.exports.version = '2.0.0'
