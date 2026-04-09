@@ -144,3 +144,4 @@ $ chalk-animation --help
 ## License
 
 MIT © [Boris K](https://github.com/bokub)
+# Updated docs
